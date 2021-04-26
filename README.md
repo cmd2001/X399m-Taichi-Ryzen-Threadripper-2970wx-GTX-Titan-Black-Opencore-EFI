@@ -18,7 +18,7 @@ macOS 11 Big Sur (11.2~11.2.3)
 
 ## Compatibility
 
-* AMD Ryzen Threadripper 2970wx (theoretically compatible with all 1st and 2nd Threadripper processors)
+* AMD Ryzen Threadripper 2970wx (theoretically compatible with all 1st and 2nd generation Threadripper processors)
 * All AMD & Nvidia Graphics Card works with whatevergreen.kext (maybe you have to edit boot arguments)
 * All Intel WiFi & Bluetooth
 * All Intel Network Adapter
